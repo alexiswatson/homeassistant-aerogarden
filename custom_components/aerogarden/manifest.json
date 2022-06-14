@@ -1,0 +1,17 @@
+{
+    "domain": "aerogarden",
+    "name": "AeroGarden",
+    "version": "0.0.1",
+    "documentation": "https://github.com/alexiswatson/homeassistant-aerogarden",
+    "issue_tracker": "https://github.com/alexiswatson/homeassistant-aerogarden/issues",
+    "requirements": [],
+    "ssdp": [],
+    "zeroconf": [],
+    "homekit": {},
+    "dependencies": [],
+    "codeowners": [
+      "@ksheumaker",
+      "@alexiswatson"
+    ],
+    "iot_class": "cloud_polling"
+  }
